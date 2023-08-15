@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/javascript-%234298B8)
 
 
-# LogMasterCLI: Mini CLI Script for Getting the logs (application server)
+# LogMasterCLI: Mini CLI Script for Getting the logs (application server) (10Kb script)
 
 ### Overview: this is a mini cli-based tool that will help the implementation team to gather logs in one location with 1 click action.
 
