@@ -1,0 +1,26 @@
+{
+    "ideal6": {
+        "logFolders": [
+            ["nodeconsumer", "../nodeconsumer/Logs"],
+            ["NCenter_IDEAL", "../NCenter_IDEAL/log"],
+            ["idealworkercenter", "../idealworkercenter/Logs"],
+            ["idealetl", "../idealetl/Logs"],
+            ["standalone", "../wildfly-8.22_uat/standalone/log"],
+            ["Consumers_Java", "../Installation/Consumers_Java/log/Consumer.log"]
+        ],
+        "product": "ideal6"
+    },
+    "iwf6": {
+        "logFolders": [
+            ["iwf-etl", "../microservices/iwf-etl/Logs"],
+            ["jobcenter", "../microservices/jobcenter/Logs"],
+            ["jobcenternodered", "../microservices/jobcenternodered/Logs"],
+            ["Ncenter", "../microservices/NCenter/log"],
+            ["NConsumer", "../microservices/NConsumer/Logs"],
+            ["NRest", "../microservices/NRest/Logs"],
+            ["standalone", "../../jboss-eap-7.2/standalone/log"]
+        ],
+        "product": "iwf6"
+    },
+    "inUse": "ideal6"
+}
